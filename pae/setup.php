@@ -118,6 +118,24 @@ if ($oPAE->LoadSettings() === false) {
         </div>
 
     </div>
+	
+	<hr>
+
+    <!-- Footer -->
+    <div class="row">
+        <div class="col-xs-12 text-muted small">
+            <p>
+                t2tPAE - tip2tail Piwigo Extractor
+                <br>
+                Version 2016.10.15.02
+            </p>
+            <p>
+                Copyright &copy; <?=date("Y");?> tip2tail Ltd.  Developed by Mark Young.
+                <br>
+                Released under the MIT license at Github.
+            </p>
+        </div>
+    </div>
 
 </div>
 

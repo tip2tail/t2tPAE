@@ -149,7 +149,7 @@ $arCats = $oAlbums->result->categories;
             <p>
                 Copyright &copy; <?=date("Y");?> tip2tail Ltd.  Developed by Mark Young.
                 <br>
-                Released under XXXXXXXXXXXXXXXXXXXXXXXX at Github.
+                Released under the MIT license at Github.
             </p>
         </div>
     </div>
