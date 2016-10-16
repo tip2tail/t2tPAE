@@ -144,7 +144,7 @@ $arCats = $oAlbums->result->categories;
             <p>
                 t2tPAE - tip2tail Piwigo Extractor
                 <br>
-                Version 2016.10.15.01
+                Version 2016.10.15.02
             </p>
             <p>
                 Copyright &copy; <?=date("Y");?> tip2tail Ltd.  Developed by Mark Young.
@@ -224,7 +224,7 @@ $arCats = $oAlbums->result->categories;
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 
-    var bDebugMode = true;
+    var bDebugMode = false;
 
     var iDeleteAlbum_ID;
     var iDeleteZip_ID;
